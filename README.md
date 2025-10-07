@@ -7,22 +7,18 @@ An interactive Next.js app showcasing pricing, channel mix, bundles/subscription
 - PNPM (recommended) or npm/yarn
 
 ## Install
-```bash
-pnpm install
-# or
 npm install
 ```
 
 ## Run Dev Server
-```bash
-pnpm dev
+npm dev
 # then open http://localhost:3000
 ```
 
 ## Build & Start
 ```bash
-pnpm build
-pnpm start
+npm build
+npm start
 ```
 
 ## App Structure
@@ -39,7 +35,7 @@ pnpm start
 - Uses React 18 and Next.js 14.
 
 ## Scripts
-- `pnpm dev`: Dev server
-- `pnpm build`: Production build
-- `pnpm start`: Start production server
-- `pnpm lint`: Run Next.js lint
+- `npm dev`: Dev server
+- `npm build`: Production build
+- `npm start`: Start production server
+- `npm lint`: Run Next.js lint
